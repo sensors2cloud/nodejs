@@ -1,5 +1,5 @@
-var SecureKey 	= 'your key here';
-var macaddr 	= 'your id here';
+var SecureKey 	= 'secure key here';
+var macaddr 	= 'macaddr here';
 
 var battery 	= Math.round(Math.random()*10000)/100;
 var current 	= Math.round(Math.random()*10000)/100;
